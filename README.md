@@ -34,3 +34,12 @@
 Ресурс с инструкцией (https://www.geeksforgeeks.org/how-to-install-apache-tomcat-8-on-linux/?ysclid=lytnyxvqh640412217)
 
 Пример deploy взял из видео: https://www.youtube.com/watch?v=UC0VzH1ICEA
+
+весь список литературы:
+
+- Java Servlets. Сервлеты https://javarush.com/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie?ysclid=lys974y9hz468466485
+- Установка TomCat в Linux систему. Консоль. https://www.geeksforgeeks.org/how-to-install-apache-tomcat-8-on-linux/?ysclid=lytnyxvqh640412217
+- Deploy telegrem bot. Example deploy timeweb, vds server https://www.youtube.com/watch?v=UC0VzH1ICEA
+- Сервлетный фильтр. Servlet fitler. https://java-online.ru/servlet-filter.xhtml
+- HikariCP. Пул соединений к базе данных. https://egorzimowski.com/2022/10/22/hikari-connection-pool-jdbc/
+- Java Servlet Context Listener Example - Java Code Geeks https://examples.javacodegeeks.com/java-development/enterprise-java/servlet/java-servlet-context-listener-example/
